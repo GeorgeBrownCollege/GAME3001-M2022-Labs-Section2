@@ -261,7 +261,7 @@ void PlayScene::m_clearNodes()
 void PlayScene::Start()
 {
 	// Set GUI Title
-	m_guiTitle = "Play Scene";
+	m_guiTitle = "Lab 6 - Part 1";
 
 	// Set Input Type
 	m_pCurrentInputType = static_cast<int>(InputType::KEYBOARD_MOUSE);
